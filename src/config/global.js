@@ -270,13 +270,12 @@ export default {
       referencia:
         'Asociación Porkcolombia. (2017). <em>Boletín No. 8. Benchmarking de productividad porcícola en Colombia.</em> Asociación Porkcolombia',
       link:
-        'https://porkcolombia.co/wp-content/uploads/2018/09/VIII-Benchmarking-2017-I-Semestre.pdf  ',
+        'https://porkcolombia.co/wp-content/uploads/2023/12/VIII-Benchmarking-2017-I-Semestre.pdf',
     },
     {
       referencia:
         'Aviagen. (2018).<em> Manual de manejo de la reproductora “Ross”.</em>',
-      link:
-        'https://aviagen.com/assets/Tech_Center/BB_Foreign_Language_Docs/Spanish_TechDocs/RossPSHandBook2018-ES.pdf  ',
+      link: '',
     },
     {
       referencia:
@@ -287,7 +286,7 @@ export default {
       referencia:
         'Bulla, C., A. 2014. <em>Comparación e indicadores productivos en los sistemas de producción bovino y ovino.</em> Universidad de La Salle.',
       link:
-        'https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=1278&context=zootecnia ',
+        'https://ciencia.lasalle.edu.co/items/20f14953-de48-40b7-b638-0ef790b2eb9e',
     },
     {
       referencia: 'Compuagro. (2021). <em>¿Qué es interherd?</em>',
@@ -313,8 +312,7 @@ export default {
     {
       referencia:
         'Educacion.navarra.es. (s. f.). <em>¿Qué es un plan de mejora?</em>',
-      link:
-        'https://www.educacion.navarra.es/documents/57308/57761/Que%20es_un_plan_de_mejora.pdf/c300e8bc-1606-40c0-8a20-22ce1895bc04 ',
+      link: '',
     },
     {
       referencia:
